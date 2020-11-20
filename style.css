@@ -39,20 +39,6 @@
     
 }
 
-.family{
-
-    justify-content: center;
-    display: flex;
-}
-
-.para{
-    justify-content: center;
-    display: flex;
-    font-family: Arial, Helvetica, sans-serif;
-    font-style:oblique;
-    font-weight: 700;
-}
-
 .APARA{
     justify-content: center;
     display: flex;
@@ -138,10 +124,6 @@
     
 }
 
-.para  {
-    border: 5px solid black;
-    border-radius: 7px;
-}
 
 .MyProjects img{
     border: 5px solid black;
@@ -149,11 +131,6 @@
 }
 
 .CONTACT img{
-    border: 5px solid black;
-    border-radius: 7px;
-}
-
-.family img{
     border: 5px solid black;
     border-radius: 7px;
 }
